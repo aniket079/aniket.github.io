@@ -1,0 +1,67 @@
+#head1{
+    position: fixed;
+    top: 15px;
+left: 231px;
+width: 40px;
+height: 40px;
+}
+#head2{
+    position: fixed;
+    top: 104px;
+left: 111px;
+width: 71px;
+height: 70px;
+}
+#product{
+    position: fixed;
+    top: 213px;
+    left: 0px;
+    right: 17px;
+    width:255px;
+    height: 465px;
+}
+h5{
+    position: fixed;
+    width: 250px;
+    height: 25px;
+    color:  #FFFFFFB3;
+    text-align: center;
+    margin-top: 9px;
+    margin-left: 24px;
+    background: #1A2C2C99 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+opacity: 1;
+border-radius: 20px;
+}
+.content{
+    position: fixed;
+    margin-top: 42px;
+    margin-left: 25px ;
+    width: 240px;
+    height: 50px;
+}
+.bar{
+    border: 2px solid white;
+    height: 5px;
+    background-color: yellow;
+}
+p.days{
+    color: white;
+    font-size: small;
+     display: inline-block;
+     padding-right: 75px;
+}
+#foot1{
+    width: 46px;
+    height: 44px;
+    position: fixed;
+    top: 750px;
+    left: 51px;
+}
+#foot2{
+    width: 49px;
+    height: 44px;
+    position: fixed;
+    top: 752px;
+    right: 120px;
+}

@@ -1,0 +1,47 @@
+input#box {
+    width: 251px;
+    height: 47px;
+    position: fixed;
+    top: 200px;
+    left: 10px;
+    color: #FFFFFFB3;
+    text-align: center;
+
+}
+.search{
+    width: 295px;
+    height: 47px;
+    position: fixed;
+    top: 200px;
+    left: 4px;
+}
+#mag{
+    height: 25px;
+    width: 25px;
+    position: fixed;
+    left: 230px;
+    top: 211px;
+mix-blend-mode: normal;
+opacity: 0.7;
+}
+.card{
+    border: 2px solid rgb(43, 35, 35);
+    border-radius: 10px;
+    height: 166px;
+    width: 243px;
+    position: fixed;
+    top: 275px;
+    left: 11px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#card2{
+    position: fixed;
+    top: 453px;
+    left: 11px;
+}
+p.data{
+    color: greenyellow;
+    font-size: small;
+}

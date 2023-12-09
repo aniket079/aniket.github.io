@@ -1,0 +1,61 @@
+.logo{
+    position: relative;
+    top: 110px ;
+    left: 90px;
+    width: 90px;
+    height: 90px;
+    mix-blend-mode: normal;
+    opacity: 1;
+    }
+
+
+input{
+    position: relative;
+    top: 232px;
+    left: 10px;
+    width: 238px;
+    height: 42px;
+    background: #1F191966 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+    mix-blend-mode: normal;
+    opacity: 1;
+    border-radius: 20px;
+    color: white;
+}
+
+button{
+    position: relative;
+    top: 350px;
+    left: 10px;
+    width: 238px;
+    height: 42px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8CFF0026;
+    opacity: 1;
+    border-radius: 20px;
+}
+.submit{
+    position: relative;
+    top: 492px;
+left: 61px;
+width: 238px;
+height: 42px;
+background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+border: 2px solid #8CFF0026;
+opacity: 1;
+}
+.forgot{
+    position: relative;
+    top: 410px;
+    left: 69px;
+    width: 143px;
+    height: 19px;
+}
+
+a{
+    position: relative;
+    text-decoration: none;
+    color: #36A546;
+}
