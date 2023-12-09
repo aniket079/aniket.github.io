@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/aniket.github.io/static/css/main.2e853469.css",
-    "main.js": "/aniket.github.io/static/js/main.6b52a474.js",
-    "static/js/787.96cb88b3.chunk.js": "/aniket.github.io/static/js/787.96cb88b3.chunk.js",
-    "static/media/search.png": "/aniket.github.io/static/media/search.3a608aca6f4d314714c4.png",
-    "static/media/user.png": "/aniket.github.io/static/media/user.ce16ec3e7e5ee6a2ac22.png",
-    "index.html": "/aniket.github.io/index.html",
-    "main.2e853469.css.map": "/aniket.github.io/static/css/main.2e853469.css.map",
-    "main.6b52a474.js.map": "/aniket.github.io/static/js/main.6b52a474.js.map",
-    "787.96cb88b3.chunk.js.map": "/aniket.github.io/static/js/787.96cb88b3.chunk.js.map"
+    "main.css": "/aniketassignment/static/css/main.2e853469.css",
+    "main.js": "/aniketassignment/static/js/main.cd694277.js",
+    "static/js/787.96cb88b3.chunk.js": "/aniketassignment/static/js/787.96cb88b3.chunk.js",
+    "static/media/search.png": "/aniketassignment/static/media/search.3a608aca6f4d314714c4.png",
+    "static/media/user.png": "/aniketassignment/static/media/user.ce16ec3e7e5ee6a2ac22.png",
+    "index.html": "/aniketassignment/index.html",
+    "main.2e853469.css.map": "/aniketassignment/static/css/main.2e853469.css.map",
+    "main.cd694277.js.map": "/aniketassignment/static/js/main.cd694277.js.map",
+    "787.96cb88b3.chunk.js.map": "/aniketassignment/static/js/787.96cb88b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e853469.css",
-    "static/js/main.6b52a474.js"
+    "static/js/main.cd694277.js"
   ]
 }
